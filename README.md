@@ -13,9 +13,9 @@ $ npm start
 
 ## Technologies
 Project is created with:
-* autoprefixer: 10.4.8,
-* concat: 1.0.3,
-* live-server: 1.2.2,
-* node-sass: 7.0.1,
-* npm-run-all: 4.1.5,
-* postcss-cli: 10.0.0
+* autoprefixer version: 10.4.8
+* concat version: 1.0.3
+* live-server version: 1.2.2
+* node-sass version: 7.0.1
+* npm-run-all version: 4.1.5
+* postcss-cli version: 10.0.0
