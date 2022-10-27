@@ -1,4 +1,4 @@
-# Kh4N1-trillo-sass-flexbox
+# trillo-sass-flexbox
 
 ## General info
 This project is for practicing Flexbox and working with sass, which is done according to Jonas Schmedtmann's training video inside Udemy.
